@@ -10,5 +10,5 @@
 - 📫 How to reach me: Ig => lojaine_eddahir 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Writing code is like trying to get a cat to do tricks. 🐱 You give it your best effort, and sometimes it works perfectly… other times, it just sits there, ignoring you, while you 
-  question all your life choices. 🤷‍♂️💻 #TechLife
+   question all your life choices. 🤷‍♂️💻 #TechLife
 
