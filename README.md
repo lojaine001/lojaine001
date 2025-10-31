@@ -6,7 +6,7 @@
 
 ## What I'm About
 
-5th year AI Engineering student splitting time between Morocco 🇲🇦 and France 🇫🇷. I build machine learning systems and deploy them to production. Currently doing a dual degree program because apparently one wasn't enough.
+5th year AI Engineering student. I build machine learning systems and deploy them to production. Currently doing a dual degree program because apparently one wasn't enough.
 
 Right now I'm deep into **computer vision**, **time series forecasting**, and figuring out how to make ML models not suck in production.
 
