@@ -88,20 +88,6 @@ Designed a home automation system with **15+ sensors/actuators**. Actually deplo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lojaine001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lojaine001&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lojaine001&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education (The Formal Stuff)
 
 **MSc Data Engineering & Cloud Computing** | aivancity Paris-Cachan (2024-2026)  
