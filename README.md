@@ -137,7 +137,6 @@ current_status = {
 
 **"First, solve the problem. Then, write the code."** – John Johnson
 
-![Profile Views](https://komarev.com/ghpvc/?username=lojaine001&color=blueviolet&style=flat-square)
 
 </div>
 
