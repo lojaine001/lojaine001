@@ -113,9 +113,10 @@ current_status = {
 
 ## 🌐 Find Me Online
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lojaine-eddahir)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lojaine-eddahir)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lojaineeddahir2003@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lojaine_eddahir)
+
 
 💬 Open to: Internships, ML projects, collaborations  
 🌍 Languages: Arabic (native), French (fluent), English (fluent), Russian (intermediate)
