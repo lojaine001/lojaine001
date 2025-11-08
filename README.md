@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Lojaine+%F0%9F%91%8B;Building+ML+systems+that+actually+work;Computer+Vision+%7C+Deep+Learning+%7C+MLOps" alt="Typing SVG" />
-
-</div>
 
 <div align="center">
 
